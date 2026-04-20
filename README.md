@@ -1,5 +1,6 @@
 # DEMOREP
 MY FIRST REPO &lt;3
-<br>
+
 Author-Armaan Palan
+
 Education- THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY
